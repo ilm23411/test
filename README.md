@@ -34,7 +34,8 @@ descriptive statistics, data collection, statistical inference, correlation/regr
 categorical/multivariate/time-series/survival analysis, applications
 
 ######################## automated feature enginnnering ###############################
-H2o, TPOT, auto-sklearn, featuretool
+H2o, TPOT, auto-sklearn, featuretool, 
+https://www.kaggle.com/frednavruzov/auto-feature-generation-featuretools-example
 
 ######################## rule based machine learning/feature interaction ######################
 asosciation rule learning, frequent patterns mining, sequential pattern mining, apriori algorithm, 
