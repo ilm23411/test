@@ -17,24 +17,25 @@ Jović, Alan, Karla Brkić, and Nikola Bogunović. "A review of feature selectio
 
 Guyon, Isabelle, and André Elisseeff. "An introduction to variable and feature selection." Journal of machine learning research 3.Mar (2003): 1157-1182.
 
-########################################################### causality:
+####################### causality ####################################
 
 causal inference, causal reasoning, causality, confounding, correlation does not imply causation, root cause 
 
 analysis, instrumental variables estimation
 
-############################################################ correlation coefficient:
+####################### correlation coefficient #####################################
 
 Anscombe's quartet, chi-squared test, coefficient of determination, Cramer's V,
 
-############################################################ structural equation modeling
+####################### structural equation modeling #####################################
 structral equation modeling, partial least squares path modeling, graphical model, factor analysis, self-organizing map
 
-############################################################ wiki version of Statistics
+######################## important topics of Statistics ####################################
 descriptive statistics, data collection, statistical inference, correlation/regression analysis, 
 categorical/multivariate/time-series/survival analysis, applications
 
-
+######################## automated feature enginnnering ###############################
+H2o, TPOT, auto-sklearn
 
 
 
