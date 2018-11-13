@@ -20,7 +20,6 @@ Guyon, Isabelle, and André Elisseeff. "An introduction to variable and feature 
 ####################### causality ####################################
 
 causal inference, causal reasoning, causality, confounding, correlation does not imply causation, root cause 
-
 analysis, instrumental variables estimation
 
 ####################### correlation coefficient #####################################
@@ -37,5 +36,7 @@ categorical/multivariate/time-series/survival analysis, applications
 ######################## automated feature enginnnering ###############################
 H2o, TPOT, auto-sklearn
 
-
+######################## rule based machine learning/feature interaction ######################
+asosciation rule learning, frequent patterns mining, sequential pattern mining, apriori algorithm, 
+mining of massive datasets (book), ijcai07 searching for interacting features (papper)
 
