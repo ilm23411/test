@@ -1,5 +1,4 @@
 
-remove high correlated columns; how to make sure no double deletion
-or similar columns
+two cat features statistics testing
 
-trend up or down
+trend up or down feature
