@@ -1,4 +1,3 @@
 
-two cat features statistics testing
-
-trend up or down feature
+C# using visual studio
+Git
